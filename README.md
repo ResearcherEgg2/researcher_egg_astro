@@ -46,6 +46,24 @@ The `src/content/` directory contains "collections" of related Markdown and MDX 
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+## 🛠️ Development Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ResearcherEgg2/researcher_egg_astro.git
+   cd researcher_egg_astro
+   ```
+
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
